@@ -1,2 +1,2 @@
 # kairos
-magic scheduler
+coming soon
