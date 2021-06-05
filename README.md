@@ -10,7 +10,7 @@
   </a> <br>
   <a href="https://kairos.tools" target="_blank"> Website </a>
     ·
-  <a href="https://kairos.tools" target="_blank"> Node sdk </a>
+  <a href="https://kairos.tools" target="_blank"> Demo </a>
     ·
   <a href="https://kairos.tools" target="_blank"> Tutorial </a>
 </p>
