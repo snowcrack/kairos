@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kairos.tools" target="_blank">
-    <img src="https://raw.githubusercontent.com/snowcrack/kairos/main/logo.png" target="_blank" />
+    <img src="https://raw.githubusercontent.com/snowcrack/kairos/main/logo.png?token=AAGFCAKRUAK3YGVKPXKTXDDAXNC4C" target="_blank" />
   </a><br>
   A time machine platform for modern applications.
   <a href="https://kairos.tools/help" target="_blank">
